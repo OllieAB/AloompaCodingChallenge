@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rapper</string>
+    <string name="rapper5">Rapper5</string>
+    <string name="rapper4">Rapper4</string>
+    <string name="rapper3">rapper3</string>
+    <string name="rapper1">rapper1</string>
+    <string name="rapper2">rapper2</string>
+    <string name="rappers">Rappers</string>
+    <string name="more_information">More Information...</string>
+    <string name="FetchRappers">FetchRappers</string>
+    <string name="description">Description</string>
+    <string name="a_list_artists">A-List Artists</string>
+</resources>
